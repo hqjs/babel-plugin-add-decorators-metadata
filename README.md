@@ -1,2 +1,7 @@
 # babel-plugin-add-decorators-metadata
-https://hqjs.org Add decorators metadata
+Add decorators metadata
+
+# Installation
+```sh
+npm install hqjs@babel-plugin-add-decorators-metadata
+```

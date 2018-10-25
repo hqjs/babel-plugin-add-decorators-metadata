@@ -1,0 +1,30 @@
+{
+  "name": "@hqjs/babel-plugin-add-decorators-metadata",
+  "version": "0.0.1",
+  "description": "Add decorators metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqjs/babel-plugin-add-decorators-metadata.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "hq",
+    "decorators",
+    "metadata",
+    "angular"
+  ],
+  "author": "hqjs <hqjsorg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hqjs/babel-plugin-add-decorators-metadata/issues"
+  },
+  "homepage": "https://hqjs.org",
+  "publishConfig": {
+    "access": "public"
+  }
+}
